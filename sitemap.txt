@@ -7,4 +7,4 @@ https://acap-westernvisayas.github.io/bulletins/weather/
 https://acap-westernvisayas.github.io/bulletins/seasonal-outlook/
 https://acap-westernvisayas.github.io/bulletins/special-weather-forecast/
 https://acap-westernvisayas.github.io/admin/login/
-https://acap-westernvisayas.github.io/superadmin/
+https://acap-westernvisayas.github.io/superadmin/login/
